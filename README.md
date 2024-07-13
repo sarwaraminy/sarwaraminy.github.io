@@ -1,5 +1,5 @@
 <h1> this project is just practice of Git Workflow</h1>
-<br>gith checkout main
+<br>git checkout main
 <br>git pull
 <br># featur check in<br>
 git checkout -b feature/<br>
